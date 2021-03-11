@@ -16,6 +16,8 @@ The main objective this project is to train DOM manipulation with JavaScript.
 
 ## Deploy
 
+https://piano-seven.vercel.app/
+
 ## Link Master Class
 
     Manipulação de DOM com JavaScript - https://www.youtube.com/watch?v=UftSB4DaRU4
